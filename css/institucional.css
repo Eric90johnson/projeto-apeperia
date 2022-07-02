@@ -35,16 +35,17 @@
 .institucional__contato {
     font-size: 1.2rem;
     line-height: 1.8;
-
     margin-top: 2rem;
 }
 
 .institucional__contato-telefone {
     line-height: normal;
+      
 }
 
 .institucional__contato-email {
     color: var(--fonte-link);
+    
     text-decoration: underline;
     display: block;
 }
