@@ -113,6 +113,7 @@
     }
 }
 
+/*Desktop*/
 @media screen and (min-width: 1024px) {
     .planos__cartoes {
         flex-direction: row;
